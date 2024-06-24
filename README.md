@@ -139,7 +139,7 @@ solana address
 # Import the same seedphrase to Metamask/Rabby Wallet --- for we are gonna send Ethereum Sepolia to it 
 ## I renamed it so i won't mix it up with my wallet 
 
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/e6a55210-d6a4-45de-a708-d599238bd841)
+![image](https://github.com/Ravindrareddy161/Eclipse-testnet-interaction/assets/152148394/211c101d-9fae-4467-b948-c09887fd1fc8)
 
 ### Request Sepolia gas on your main wallet: 
 MINE SEPOLIA GAS  ---https://sepolia-faucet.pk910.de/
