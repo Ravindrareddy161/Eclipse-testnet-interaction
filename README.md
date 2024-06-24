@@ -152,7 +152,7 @@ Request from Quicknode ---  https://faucet.quicknode.com/ethereum/sepolia
 
 ---------------------
 ### Send Sepolia ETH to the wallet imported 
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/9658de88-4fa4-47a5-b667-21ea2db684f6)
+![image](https://github.com/Ravindrareddy161/Eclipse-testnet-interaction/assets/152148394/eb58da76-c53e-4cd7-bb50-e1b11c45c553)
 
 ---------------
 
